@@ -14,3 +14,6 @@
    python flashfxp_gui.py
    ```
    (Note: Previously `flashfxp_integrated.py`, now typically `flashfxp_gui.py` if it's the main GUI entry point)
+
+### This isn't fully functional
+This was a project to try and clone my favorite FTP client "FlashFXP" since my lifetime license key doesn't work anymore.
